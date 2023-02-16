@@ -1,4 +1,4 @@
 # proyecto scraping
-intruccion para corre el archivo
+instruccion para correr el archivo
 
 python3 ensayo5.py
